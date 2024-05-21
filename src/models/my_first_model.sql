@@ -12,4 +12,4 @@ SELECT 2 AS my_column
 UNION ALL
 SELECT 3 AS my_column
 UNION ALL
-SELECT 4 AS my_column
+SELECT 45 AS my_column

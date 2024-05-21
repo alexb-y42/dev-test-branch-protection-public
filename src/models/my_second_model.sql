@@ -1,5 +1,5 @@
 {#
-#
+
 ⚠️ You can only preview this model after `my_first_model` has been materialized
 
 ✅ Reference models with ref('<model_name>')
